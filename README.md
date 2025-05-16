@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rahul — Software Engineering Student & Backend Developer
+# 👋 Hi, I'm Masinde — Software Engineering Student & Backend Developer
 - I'm a software engineer specializing in backend development, building scalable and reliable APIs,
 -  microservices, and distributed systems. I enjoy working with Java, JavaScript,
 -   and cloud-native tools to solve complex engineering problems.
