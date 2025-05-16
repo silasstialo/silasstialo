@@ -34,6 +34,18 @@
 --->
 
 ---
+## 📈 GitHub Stats
+
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=silasstialo&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/silas-masinde-12941a248/)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:silasstialo6@gmail.com)
+
+---
 _Thanks for checking out my profile!_
 
 <!---
